@@ -1,1 +1,1 @@
-# provai = 0l = 1k = i + l
+# provai = 0l = 1k = i + li + k
